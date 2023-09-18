@@ -1,7 +1,7 @@
 ---
-title: "Test de static site con Hugo + Ananke"
+title: "Aston Martin"
 
 description: "Test sitio estático."
 
-featured_image: '/images/hero-image.jpg'
+featured_image: '/images/amr24.jpg'
 ---
